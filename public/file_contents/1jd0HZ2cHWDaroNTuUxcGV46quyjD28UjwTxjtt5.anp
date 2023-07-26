@@ -1,0 +1,6 @@
+<div class="row"><h3>Textoria.js Library</h3></div><div class="row" new="false"><p><br></p><p>&nbsp;Textoria JS adalah sebuah library yang digunakan untuk menuliskan suatu halaman artikel seperti yang sedang diketikan sekarang<span style="font-family: var(--bs-font-sans-serif); font-size: 1rem;">&nbsp;</span></p></div><div class="row" new="true"><p>&nbsp;</p></div><div class="row" new="false"><p><span style="font-family: var(--bs-font-sans-serif); font-size: 1rem;">Library ini akan berkembang&nbsp;&nbsp;</span><br></p></div><div contenteditable="false" class="dropdown">
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li><a class="dropdown-item" href="#" data-type="header1">Header 1</a></li>
+            <li><a class="dropdown-item" href="#" data-type="header2">Header 2</a></li>
+            <li><a class="dropdown-item" href="#" data-type="header3">Header 3</a></li>
+        </ul></div>

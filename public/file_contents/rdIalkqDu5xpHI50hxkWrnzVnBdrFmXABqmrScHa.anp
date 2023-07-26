@@ -1,0 +1,6 @@
+<div class="row"><h3>Halaman 1 : Pengenalan</h3></div><div class="row" new="false"><p><span style="font-family: var(--bs-font-sans-serif); font-size: 1rem;"><br></span></p><p><span style="font-family: var(--bs-font-sans-serif); font-size: 1rem;">ini adalah halaman pengenalans</span></p><p><br></p></div><div class="row" new="true"><h5>Terimakasih, Wokey</h5></div><div class="row" new="true"><p>&nbsp;</p></div><div class="row" new="true"><p>&nbsp;</p></div><div class="row" new="true"><p>Nama saya adalah&nbsp; dionisius setya Hermawan&nbsp;<span style="font-family: var(--bs-font-sans-serif); font-size: 1rem;">&nbsp;</span></p></div><div class="row" new="true"><h3>Ini Judul</h3></div><div class="row" new="true"><p>&nbsp;</p></div><div class="row" new="true"><h3>Ini Judul</h3></div><div contenteditable="false" class="dropdown">
+        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li><a class="dropdown-item" href="#" data-type="header1">Header 1</a></li>
+            <li><a class="dropdown-item" href="#" data-type="header2">Header 2</a></li>
+            <li><a class="dropdown-item" href="#" data-type="header3">Header 3</a></li>
+        </ul></div>

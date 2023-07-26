@@ -1,0 +1,6 @@
+<div class="row"><h3>Ini adalah halaman judul</h3></div><div class="row" new="false"><p><br></p><p>ini adalah isi</p></div><div class="row" new="false"><h5>Ini Judul header 2</h5></div><div contenteditable="false" class="dropdown">
+        <ul class="dropdown-menu show" aria-labelledby="dropdownMenuButton1">
+            <li><a class="dropdown-item" href="#" data-type="header1">Header 1</a></li>
+            <li><a class="dropdown-item" href="#" data-type="header2">Header 2</a></li>
+            <li><a class="dropdown-item" href="#" data-type="header3">Header 3</a></li>
+        </ul></div>
