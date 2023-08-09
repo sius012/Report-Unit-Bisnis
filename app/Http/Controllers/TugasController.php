@@ -68,6 +68,8 @@ class TugasController extends Controller
     {
         $tugas = new Tugas;
         $tugas = $tugas->getTugas($id); 
+
+        $tugas = Tugas::all();
         return response()->json($tugas);
     }
 
